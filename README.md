@@ -35,7 +35,7 @@ def foo():
 ### Fixtures
 
 tests/conftest.py
-```
+```python
 import pytest
 
 
