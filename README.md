@@ -71,4 +71,4 @@ def test_parametrize(actual, expected):
 ### pytest doc
 
 * https://realpython.com/pytest-python-testing/
-* https://docs.pytest.org/en/7.2.x/
+* https://docs.pytest.org/en/stable/
